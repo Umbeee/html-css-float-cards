@@ -10,7 +10,7 @@ body{
 }
 
 h1{
-    color: coral;
+    color: rgb(255, 0, 128);
     margin-bottom: 50px;
 }
 
@@ -64,10 +64,11 @@ ul li{
 }
 
 ul{
-    padding: 20px;
+    padding: 15px;
 }
 a{
     text-decoration:none; 
+    color: rgb(26, 173, 231);
 }
 .ombra{
     box-shadow: 0 0 30px 10px grey;
